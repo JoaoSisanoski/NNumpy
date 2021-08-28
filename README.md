@@ -1,6 +1,6 @@
 # NNumpy
 
-The goal of this project is to create a simple AI projects using Numpy purely for study and foundational purposes.
+The goal of this project is to create simple AI projects using Numpy purely for study and foundational purposes.
 
 ## Things to do
 
